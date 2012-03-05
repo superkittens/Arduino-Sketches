@@ -5,3 +5,6 @@ This program hasn't been tested yet.  Sampling rate needs to be resolved.
 4-Mar/2012
 Added "accel_test"
 Takes in analog values from ADXL335 Accelerometer (lilypad accelerometer from Sparkfun) and converts all 3 axis to "g" values.
+
+A graph of the accelerometer in action (x axis "flick test") is included!
+y axis is ADC Values while x axis is the sample number. 
