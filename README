@@ -1,0 +1,7 @@
+7-Jan/2012
+Added "goertzel" Arduino Sketch
+This program hasn't been tested yet.  Sampling rate needs to be resolved.
+
+4-Mar/2012
+Added "accel_test"
+Takes in analog values from ADXL335 Accelerometer (lilypad accelerometer from Sparkfun) and converts all 3 axis to "g" values.
